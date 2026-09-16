@@ -59,5 +59,5 @@ Retrieve quota usage for the current license: `sources_used`, `sources_limit` (o
 
 - Homepage: https://mcp-forge.vulcai.io
 - CLI on PyPI: https://pypi.org/project/vulcai-mcp-forge-cli/
-- Trust & Security: https://api.mcp-forge.vulcai.io/trust
-- Troubleshooting: https://api.mcp-forge.vulcai.io/docs/troubleshooting/no-tools
+- Trust & Security: https://mcp-forge.vulcai.io/trust
+- Troubleshooting: https://mcp-forge.vulcai.io/docs/troubleshooting/no-tools
